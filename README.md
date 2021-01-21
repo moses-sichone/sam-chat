@@ -18,3 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 "# sam_chat" 
 "# sam_chat" 
 "# sam-chat" 
+
+# Tasks
+- Statuses
+- Video and Audio Calls
+- Messages(Text, Audi clip, Images, Video, Documents)
+
