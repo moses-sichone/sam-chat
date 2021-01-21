@@ -62,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
         automaticallyImplyLeading: false,
         backgroundColor: _isSearch == false ? primaryColor : Colors.transparent,
         title: _isSearch == false
-            ? Text("WhatsApp Clone")
+            ? Text("SAMCHAT")
             : Container(
                 height: 0.0,
                 width: 0.0,
@@ -85,7 +85,7 @@ class _HomeScreenState extends State<HomeScreen> {
             width: 5,
           ),
           InkWell(onTap: (){
-            //TODO currently a logging out of chat app. Fix to bring up account settings
+            //TODO currently a logging out of app button action. Fix to bring up account settings instead
             BlocProvider.of<AuthCubit>(context).loggedOut();
           },child: Icon(Icons.more_vert))
         ],
