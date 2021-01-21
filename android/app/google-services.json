@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054892864621",
+    "project_id": "sam-chat-6ecb9",
+    "storage_bucket": "sam-chat-6ecb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054892864621:android:bf0105021a797314e67b64",
+        "android_client_info": {
+          "package_name": "com.samafricaonline.samchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054892864621-6tq2onekm474u3vsroo4jtgvf3mn62bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samafricaonline.samchat",
+            "certificate_hash": "83ead6f3e868e8b6bb732e51a27bc3f7f596e4bb"
+          }
+        },
+        {
+          "client_id": "1054892864621-4lall6uj4979pmqkuh3uinjnd91l3mak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxfrrgsThC8y-8v-rrZLqG-UcC0R825lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054892864621-4lall6uj4979pmqkuh3uinjnd91l3mak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
